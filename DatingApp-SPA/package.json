@@ -25,13 +25,13 @@
     "bootswatch": "^4.3.1",
     "core-js": "^3.2.1",
     "font-awesome": "^4.7.0",
-    "ngx-bootstrap": "^5.1.2",
+    "ngx-bootstrap": "^5.2.0",
     "ngx-gallery": "^5.10.0",
     "rxjs": "^6.5.3",
     "zone.js": "^0.9.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.6.8",
+    "@angular-devkit/build-angular": "^0.803.6",
     "@angular/cli": "~8.3.6",
     "@angular/compiler-cli": "^8.2.8",
     "@angular/language-service": "^8.2.8",
